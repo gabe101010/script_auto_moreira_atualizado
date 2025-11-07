@@ -1,2 +1,2 @@
-KEY = "LEJAX-MOREIRA-913-MC8"
+KEY = "LEJAX-MOREIRA-4YY-9VJ"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lejax7xmoreira/script/refs/heads/main/script.lua"))()
